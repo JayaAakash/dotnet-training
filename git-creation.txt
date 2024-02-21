@@ -1,0 +1,4 @@
+create Git repository
+ - sign up in git hub
+ - give credentails and configuaration.
+ - map the git url in cmd promt by giving nick name( origin )  henceforth this will be the path name for our repos
