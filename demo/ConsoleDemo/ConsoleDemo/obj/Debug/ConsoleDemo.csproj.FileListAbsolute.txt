@@ -1,0 +1,7 @@
+C:\Aakash\dotnet-training\demo\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.exe.config
+C:\Aakash\dotnet-training\demo\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.exe
+C:\Aakash\dotnet-training\demo\ConsoleDemo\ConsoleDemo\bin\Debug\ConsoleDemo.pdb
+C:\Aakash\dotnet-training\demo\ConsoleDemo\ConsoleDemo\obj\Debug\ConsoleDemo.csproj.AssemblyReference.cache
+C:\Aakash\dotnet-training\demo\ConsoleDemo\ConsoleDemo\obj\Debug\ConsoleDemo.csproj.CoreCompileInputs.cache
+C:\Aakash\dotnet-training\demo\ConsoleDemo\ConsoleDemo\obj\Debug\ConsoleDemo.exe
+C:\Aakash\dotnet-training\demo\ConsoleDemo\ConsoleDemo\obj\Debug\ConsoleDemo.pdb
