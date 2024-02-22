@@ -2,3 +2,11 @@ create Git repository
  - sign up in git hub
  - give credentails and configuaration.
  - map the git url in cmd promt by giving nick name( origin )  henceforth this will be the path name for our remote.
+
+1. Git remote add origin --> Remote
+2. Git remote -v ( to check the fetch and push report)
+3. Git status
+4. Git add git-creation.txt
+5.  Or to add all files git add .
+6. Git commit -m "firstcode"
+7. Git push origin master
