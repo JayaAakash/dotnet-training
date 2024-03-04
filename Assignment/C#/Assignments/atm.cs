@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace practice_cases
+namespace Asssignments
 {
     class Accounts
     {
@@ -77,7 +77,7 @@ namespace practice_cases
         static void Main(string[] args)
         {
 
-            Accounts account = new Accounts(123456, "John Doe", "Savings", 'D', 1000);
+            Accounts account = new Accounts(1026758, "Bhanu", "Savings", 'W', 1000);
 
 
             account.UpdateBalance();

@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace Assessment
+namespace code_base_test
 {
     class remove
     {

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F9F284EE-8FA3-448E-B136-62496F5354A0}</ProjectGuid>
+    <ProjectGuid>{730570FA-869D-4543-9B8F-8021CA3E590B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>pratice_cases</RootNamespace>
-    <AssemblyName>pratice cases</AssemblyName>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>ConsoleApp1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>practice_session.practice</StartupObject>
+    <StartupObject>code_base_test.largenumbers</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,11 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="atm.cs" />
-    <Compile Include="enums.cs" />
-    <Compile Include="partnership_runs.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="exchange-string.cs" />
+    <Compile Include="largenumbers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="removechar.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

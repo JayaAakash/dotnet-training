@@ -1,0 +1,7 @@
+C:\Aakash\dotnet-training\code base test\C#\code base test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Aakash\dotnet-training\code base test\C#\code base test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Aakash\dotnet-training\code base test\C#\code base test\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Aakash\dotnet-training\code base test\C#\code base test\ConsoleApp1\ConsoleApp1\obj\Debug\code_base_test.csproj.AssemblyReference.cache
+C:\Aakash\dotnet-training\code base test\C#\code base test\ConsoleApp1\ConsoleApp1\obj\Debug\code_base_test.csproj.CoreCompileInputs.cache
+C:\Aakash\dotnet-training\code base test\C#\code base test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Aakash\dotnet-training\code base test\C#\code base test\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

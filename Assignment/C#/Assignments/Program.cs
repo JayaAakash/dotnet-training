@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace practice_session
+namespace Asssignments
 {
     class practice
     {
@@ -121,9 +121,9 @@ namespace practice_session
                 default:
                     dayname = "invalid day number";
                     break;
-            
+
                     Console.WriteLine($"the entered day is {dayname}");
-            
+
             }
 
 
@@ -200,7 +200,7 @@ namespace practice_session
 
         class Student
         {
-            
+
             private int rollNo;
             private string name;
             private string className;
@@ -253,7 +253,7 @@ namespace practice_session
                 }
             }
 
-            
+
             private double CalculateAverage()
             {
                 double sum = 0;

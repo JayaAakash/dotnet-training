@@ -1,7 +1,0 @@
-C:\Aakash\dotnet-training\demo\ConsoleDemo\pratice cases\bin\Debug\pratice cases.exe.config
-C:\Aakash\dotnet-training\demo\ConsoleDemo\pratice cases\bin\Debug\pratice cases.exe
-C:\Aakash\dotnet-training\demo\ConsoleDemo\pratice cases\bin\Debug\pratice cases.pdb
-C:\Aakash\dotnet-training\demo\ConsoleDemo\pratice cases\obj\Debug\practice session.csproj.AssemblyReference.cache
-C:\Aakash\dotnet-training\demo\ConsoleDemo\pratice cases\obj\Debug\practice session.csproj.CoreCompileInputs.cache
-C:\Aakash\dotnet-training\demo\ConsoleDemo\pratice cases\obj\Debug\pratice cases.exe
-C:\Aakash\dotnet-training\demo\ConsoleDemo\pratice cases\obj\Debug\pratice cases.pdb
