@@ -1,24 +1,28 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace ConsoleDemo
+namespace my_practice_cases
 {
-    class Program
-    {
-        static void Main(string[] args)
+        class Program
         {
-            Console.WriteLine("Welcome to my first demo application !!....");
-            Console.WriteLine("enter your name:");
-            string name = Console.ReadLine();
-            Console.WriteLine("where you reside:");
-            string place = Console.ReadLine();
-            Cricket cricket = new Cricket();
-            cricket.team();
+            static void Main(string[] args)
+            {
+                Console.WriteLine("Welcome to my first demo application !!....");
+                Console.WriteLine("enter your name:");
+                string name = Console.ReadLine();
+                Console.WriteLine("where you reside:");
+                string place = Console.ReadLine();
+                Cricket cricket = new Cricket();
+                cricket.team();
 
-            Console.Read();
+                Console.Read();
 
+            }
         }
-    }
-    class Cricket
+        class Cricket
         {
             public void team()
             {
@@ -41,4 +45,3 @@ namespace ConsoleDemo
 
         }
     }
-
