@@ -1,7 +1,0 @@
-C:\Aakash\dotnet-training\Assignment\C#\Assignments\Assignements\Assignements\bin\Debug\Assignements.exe.config
-C:\Aakash\dotnet-training\Assignment\C#\Assignments\Assignements\Assignements\bin\Debug\Assignements.exe
-C:\Aakash\dotnet-training\Assignment\C#\Assignments\Assignements\Assignements\bin\Debug\Assignements.pdb
-C:\Aakash\dotnet-training\Assignment\C#\Assignments\Assignements\Assignements\obj\Debug\Assignements.csproj.AssemblyReference.cache
-C:\Aakash\dotnet-training\Assignment\C#\Assignments\Assignements\Assignements\obj\Debug\Assignements.csproj.CoreCompileInputs.cache
-C:\Aakash\dotnet-training\Assignment\C#\Assignments\Assignements\Assignements\obj\Debug\Assignements.exe
-C:\Aakash\dotnet-training\Assignment\C#\Assignments\Assignements\Assignements\obj\Debug\Assignements.pdb

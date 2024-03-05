@@ -84,6 +84,7 @@ namespace Asssignments
 
 
             account.ShowData();
+            Console.ReadLine();
         }
     }
 }

@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Asssignments.Program</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -44,8 +47,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="atm.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="practice.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="salesdetails.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
