@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>code_base_test.largenumbers</StartupObject>
+    <StartupObject>code_base_test.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,7 +47,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="exchange-string.cs" />
+    <Compile Include="grads.cs" />
     <Compile Include="largenumbers.cs" />
+    <Compile Include="product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="removechar.cs" />
   </ItemGroup>
