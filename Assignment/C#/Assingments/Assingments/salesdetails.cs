@@ -42,7 +42,7 @@ namespace Assingments
         }
     }
 
-    class Program
+    class salesdetails
     {
         static void Main(string[] args)
         {

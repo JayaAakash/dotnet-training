@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Asssignments.Program</StartupObject>
+    <StartupObject>Assingments.doctor</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,9 +47,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="atm.cs" />
+    <Compile Include="doctor.cs" />
     <Compile Include="practice.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="salesdetails.cs" />
+    <Compile Include="string.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

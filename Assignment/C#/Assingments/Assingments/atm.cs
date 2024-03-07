@@ -72,7 +72,7 @@ namespace Asssignments
         }
     }
 
-    class Program
+    class atm
     {
         static void Main(string[] args)
         {
