@@ -13,7 +13,6 @@ namespace Assignment3
         }
     }
 
-    // BankAccount class with deposit, withdraw, and balance methods
     public class BankAccount
     {
         private double balance;

@@ -15,7 +15,7 @@ namespace Assignment3
 
             Console.WriteLine("Enter the letter to count:");
             char letterToCount = Console.ReadKey().KeyChar;
-            Console.WriteLine(); // Move to the next line after reading the letter
+            Console.WriteLine(); 
 
             int count = CountOccurrences(inputString, letterToCount);
             Console.WriteLine($"Number of occurrences of '{letterToCount}' in string: {count}");

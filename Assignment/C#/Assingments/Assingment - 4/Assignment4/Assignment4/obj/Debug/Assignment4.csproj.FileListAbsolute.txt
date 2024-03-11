@@ -1,0 +1,10 @@
+C:\Aakash\dotnet-training\Assignment\C#\Assingments\Assingment - 4\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.AssemblyReference.cache
+C:\Aakash\dotnet-training\Assignment\C#\Assingments\Assingment - 4\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Aakash\dotnet-training\Assignment\C#\Assingments\Assingment - 4\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Aakash\dotnet-training\Assignment\C#\Assingments\Assingment - 4\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Aakash\dotnet-training\Assignment\C#\Assingments\Assingment - 4\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Aakash\dotnet-training\Assignment\C#\Assingments\Assingment - 4\Assignment4\Assignment4\bin\Debug\Concession.dll
+C:\Aakash\dotnet-training\Assignment\C#\Assingments\Assingment - 4\Assignment4\Assignment4\bin\Debug\Concession.pdb
+C:\Aakash\dotnet-training\Assignment\C#\Assingments\Assingment - 4\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CopyComplete
+C:\Aakash\dotnet-training\Assignment\C#\Assingments\Assingment - 4\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Aakash\dotnet-training\Assignment\C#\Assingments\Assingment - 4\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
