@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Assingments.doctor</StartupObject>
+    <StartupObject>Assingments.strings</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,12 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="atm.cs" />
-    <Compile Include="doctor.cs" />
+    <Compile Include="array.cs" />
+    <Compile Include="copyarray.cs" />
+    <Compile Include="marks.cs" />
     <Compile Include="practice.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="salesdetails.cs" />
-    <Compile Include="string.cs" />
+    <Compile Include="strings.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

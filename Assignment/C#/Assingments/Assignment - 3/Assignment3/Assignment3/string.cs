@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assingments
+namespace Assignment3
 {
 
     class String
@@ -32,3 +32,4 @@ namespace Assingments
         }
     }
 }
+

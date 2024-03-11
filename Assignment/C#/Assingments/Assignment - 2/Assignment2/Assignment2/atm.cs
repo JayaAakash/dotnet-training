@@ -1,7 +1,8 @@
 ﻿using System;
 
 
-namespace Asssignments
+namespace Assignment2
+
 {
     class Accounts
     {
@@ -85,6 +86,13 @@ namespace Asssignments
 
             account.ShowData();
             Console.ReadLine();
+
+            Student student = new Student(011, "Bhanu", "10th", "mid", "Computer Science");
+            Console.WriteLine("----------------Student Marks----------------------");
+
+            student.GetMarks();
+            student.DisplayResult();
+            student.DisplayData();
         }
     }
 }
