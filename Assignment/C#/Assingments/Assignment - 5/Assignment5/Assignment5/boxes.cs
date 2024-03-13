@@ -31,7 +31,7 @@ namespace Assignment5
         }
     }
 
-    public class Test
+    public class boxes
     {
         static void Main()
         {
